@@ -1,6 +1,6 @@
 {
   "name": "@fakerjs/word",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "Word package provides functionality to generate a fake semi-pronounceable random (nonsense) word value.",
   "license": "MIT",
   "repository": "faker-javascript/word",
