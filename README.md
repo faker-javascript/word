@@ -8,8 +8,14 @@ Word package provides functionality to generate a fake semi-pronounceable random
 
 ## Install
 
+npm
 ```
-$ npm install --save @fakerjs/word
+npm install @fakerjs/word --save-dev
+```
+
+yarn
+```
+yarn add @fakerjs/word -D
 ```
 
 ## Usage
